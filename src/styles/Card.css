@@ -1,0 +1,18 @@
+.card-bg{
+    background-color: rgb(151, 151, 255);
+    width: 20vw;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    padding: 2em;
+    margin-left: 5px;
+    
+    
+    
+  
+}
+
+.card-no{
+    font-weight: bold;
+    font-size: 2em;
+}
